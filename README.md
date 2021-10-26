@@ -10,7 +10,7 @@ With added new features:
 -Translated to Indonesian
 
 My implementation is featured at: 
-https://fm-raviadi.id/kalkulator
+https://fm-raviadi.id/kalkulator/build
 
 
 ## Usage =:
