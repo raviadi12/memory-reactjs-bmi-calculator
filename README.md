@@ -7,6 +7,7 @@ With added new features:
 -Graph Animation
 -Low res Mobile tested!
 -Low processing powers
+-Translated to Indonesian
 
 My implementation is featured at: 
 https://fm-raviadi.id/kalkulator
