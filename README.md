@@ -3,11 +3,11 @@ A ReactJS based calculator
 
 Based on GermaVinSmoke's Calculator
 With added new features:
--Localstorage
--Graph Animation
--Low res Mobile tested!
--Low processing powers
--Translated to Indonesian
+1. Localstorage
+2. Graph Animation
+3. Low res Mobile tested!
+4. Low processing powers
+5. Translated to Indonesian
 
 My implementation is featured at: 
 https://fm-raviadi.id/kalkulator/build
